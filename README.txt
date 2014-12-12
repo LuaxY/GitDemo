@@ -1,7 +1,3 @@
-Salut!
+GitDemo
 
-
-On est dans la branche 2
-
-
-Ça va?
+Démonstration de git et GitHub
